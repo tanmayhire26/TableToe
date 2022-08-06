@@ -1,6 +1,9 @@
 .table_heading {
+  
   display: flex;
   justify-content: center;
+  background-image: linear-gradient(to top, yellow, rgb(228, 137, 52), wheat);
+  
 }
 table {
   position: relative;
@@ -16,7 +19,4 @@ td {
 }
 .tnone {
   border: none;
-}
-.table_heading{
-  box-sizing : 0px 0px 5px 0px wheat;
 }
