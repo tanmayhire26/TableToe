@@ -1,0 +1,19 @@
+.table_heading {
+  display: flex;
+  justify-content: center;
+}
+table {
+  position: relative;
+  top: 150px;
+  width: 60%;
+  height: auto;
+}
+td {
+  border: 2px solid midnightblue;
+  text-align: center;
+  width: 200px;
+  height: 50px;
+}
+.tnone {
+  border: none;
+}
